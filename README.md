@@ -36,7 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="1920" height="957" alt="{C3AFF6D1-88E0-4581-9A08-BBE02574A08A}" src="https://github.com/user-attachments/assets/3ac85f2f-dbd9-43ad-894e-f083e9df2f14" />
+ <img width="1920" height="956" alt="Screenshot 2025-10-04 143455" src="https://github.com/user-attachments/assets/ffd8e338-0b7e-4783-923a-dca5a031e5b0" />
+ <img width="1920" height="956" alt="Screenshot 2025-10-04 143842" src="https://github.com/user-attachments/assets/7da012e8-2d91-45b9-97a5-39995b725b40" />
+
+
 
  
  ## RESULT
